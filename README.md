@@ -1,6 +1,6 @@
 # aerospike-docker-compose
 
-Two node Aerospace cluster with monitoring. (prometheus and grafana)
+Two node Aerospike cluster with monitoring. (prometheus and grafana)
 
 
 1. Run 
