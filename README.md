@@ -1,16 +1,16 @@
 # aerospike-docker-compose
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_2 node cluster with monitoring._
 
-1. Download [https://example.com](https://example.com)
-2. Clone the repo
+
+1. Run 
    ```sh
-   git clone https://github.com/thecloudslayer/aerospike-docker-compose.git
+   docker compose up
    ```
-3. run docker compose up
+2. URL   User:admin pass:admin
    ```sh
-   
+   http://localhost:4000
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
